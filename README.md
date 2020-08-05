@@ -1,5 +1,5 @@
 # CPP_TCP Echo Communication Program
-TCP Echo Communication Program with Socket Programming in C++ [2020-08-04]
+[2020-08-04] TCP Echo Communication Program with Socket Programming in C++ 
 
 ### 프로그램 개발 환경
 - OS : Microsoft Windows 10
